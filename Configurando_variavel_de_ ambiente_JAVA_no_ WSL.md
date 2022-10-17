@@ -41,3 +41,5 @@ comando
 ```
 echo $JAVA_HOME
 ```
+
+Pronto!
